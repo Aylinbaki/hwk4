@@ -1,10 +1,18 @@
 Step-a
-aylinbaki@Aylin-MacBook-Pro ~ % git config --global user.name "Aylin Baki"
-aylinbaki@Aylin-MacBook-Pro ~ % git config --global user.email "aylinbaki@hotmail.com"
-aylinbaki@Aylin-MacBook-Pro ~ % git config --global favorite.editor "Sude Ecem Çakırbey"
-aylinbaki@Aylin-MacBook-Pro ~ % git config --global --list
+% git config --global user.name "Aylin Baki"
+% git config --global user.email "aylinbaki@hotmail.com"
+% git config --global favorite.editor "Sude Ecem Çakırbey"
+% git config --global --list
 user.name=Aylin Baki
 user.email=aylinbaki@hotmail.com
 core.editor=Sude Ecem Çarkırbey
 favorite.editor=Sude Ecem Çakırbey
 
+Step-b 
+%  git clone https://github.com/Aylinbaki/hwk4.git
+Cloning into 'hwk4'...
+remote: Enumerating objects: 11, done.
+remote: Counting objects: 100% (11/11), done.
+remote: Compressing objects: 100% (8/8), done.
+remote: Total 11 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (11/11), done.
