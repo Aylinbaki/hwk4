@@ -16,3 +16,27 @@ remote: Counting objects: 100% (11/11), done.
 remote: Compressing objects: 100% (8/8), done.
 remote: Total 11 (delta 0), reused 0 (delta 0), pack-reused 0
 Receiving objects: 100% (11/11), done.
+
+% ls -a
+.				              Applications
+..		            		Desktop
+.CFUserTextEncoding		Documents
+.DS_Store		        	Downloads
+.IdentityService	  	GDSC.png
+.Trash			        	IdeaProjects
+.android	        		Library
+.anydesk	         		Movies
+.dotnet		        		Music
+.fontconfig		      	NetBeansProjects
+.gitconfig		      	OneDrive - isik.edu.tr
+.gradle			        	Pictures
+.lesshst	        		Project_1.html
+.local		        		Public
+.m2		              	PycharmProjects
+.mono			           	Sınavlar.txt
+.nuget			        	VisualSCode
+.oracle_jre_usage	  	WEEK_1
+.vscode			        	fizik.txt
+.zsh_history		    	hwk4
+.zsh_sessions		     	kısa yok.txt
+Adsız.txt			        matlab_crash_dump.59827-1
