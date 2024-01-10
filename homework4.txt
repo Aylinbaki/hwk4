@@ -1,1 +1,10 @@
+Step-a
+aylinbaki@Aylin-MacBook-Pro ~ % git config --global user.name "Aylin Baki"
+aylinbaki@Aylin-MacBook-Pro ~ % git config --global user.email "aylinbaki@hotmail.com"
+aylinbaki@Aylin-MacBook-Pro ~ % git config --global favorite.editor "Sude Ecem Çakırbey"
+aylinbaki@Aylin-MacBook-Pro ~ % git config --global --list
+user.name=Aylin Baki
+user.email=aylinbaki@hotmail.com
+core.editor=Sude Ecem Çarkırbey
+favorite.editor=Sude Ecem Çakırbey
 
