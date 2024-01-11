@@ -47,3 +47,9 @@ Step-d
 [feature-1 (root-commit) 35e954a] Setting up gitignore
  1 file changed, 53 insertions(+)
  create mode 100644 .gitignore
+
+Step-e
+ % git checkout feature-1
+branch 'feature-1' set up to track 'origin/feature-1'.
+Switched to a new branch 'feature-1'
+
