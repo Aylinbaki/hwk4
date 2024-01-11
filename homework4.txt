@@ -40,3 +40,10 @@ Receiving objects: 100% (11/11), done.
 .zsh_history		    	hwk4
 .zsh_sessions		     	kısa yok.txt
 Adsız.txt			        matlab_crash_dump.59827-1
+
+Step-d
+% git add .gitignore
+% git commit -m "Setting up gitignore"
+[feature-1 (root-commit) 35e954a] Setting up gitignore
+ 1 file changed, 53 insertions(+)
+ create mode 100644 .gitignore
